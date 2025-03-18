@@ -16,6 +16,7 @@
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,tailwindcss,html,css,git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
 </p>
 
 ---
@@ -23,5 +24,5 @@
 ### 🔗 Connect with me
 <p>
   <a href="https://tharuxpert.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:your@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tharuxpert@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
