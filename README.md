@@ -15,8 +15,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,tailwindcss,html,css,git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwindcss,html,css,git" />
 </p>
 
 ---
