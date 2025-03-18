@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Tharuka</h1>
+<h1 align="center">Hi there 👋, I'm Tharusha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Student+Developer;React+Native+%2B+Expo+Enthusiast;Next.js+Frontend+Crafter;Learning+Every+Day" alt="Typing SVG" />
 </p>
@@ -15,20 +15,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,tailwindcss,html,css,figma,vscode,git" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Tharuka's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,tailwindcss,html,css,git" />
 </p>
 
 ---
