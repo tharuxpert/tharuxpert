@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 - 🎓 I'm a student developer, still learning and building my way into software development.
-- ⚒️ Currently working with **React Native + Expo**, and **Next.js** for frontend projects.
+- ⚒️ Currently working with **React Native + Expo**, **Flutter**, and **Next.js** for frontend projects.
 - 🔭 Always exploring and learning new tech — diving deeper into **React Native** these days.
 - 🚀 My Portfolio → <a href="https://tharuxpert.com" target="_blank" rel="noopener noreferrer">tharuxpert.com</a>
 
