@@ -23,8 +23,8 @@
 ### 🔗 Connect with me
 <p>
   <a href="https://tharuxpert.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://tharuxpert.com/logo.png" height="40" />
+</a>
   <a href="mailto:tharuxpert@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
