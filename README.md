@@ -22,9 +22,15 @@
 
 ### 🔗 Connect with me
 <p>
-  <a href="https://tharuxpert.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://tharuxpert.com/logo.png" height="40" />
+  <a href="https://tharuxpert.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <img 
+    src="https://tharuxpert.com/logo.png" 
+    height="24" 
+    style="vertical-align: middle; margin-right: 8px;"
+  />
+  <strong style="vertical-align: middle;">tharuxpert.com</strong>
 </a>
+
   <a href="mailto:tharuxpert@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
