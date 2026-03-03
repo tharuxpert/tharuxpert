@@ -1,3 +1,4 @@
+![intro gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi there 👋, I'm Tharusha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Student+Developer;React+Native+%2B+Expo+Enthusiast;Next.js+Frontend+Crafter;Learning+Every+Day" alt="Typing SVG" />
