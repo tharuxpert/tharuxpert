@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Tharusha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=it%27s+a+cache+issue;it+was+not+a+cache+issue;rebuilding+node_modules...;works+on+my+phone%2C+ship+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=npx+expo+start;wait%2C+why+is+it+white;restarted+it.+fine+now;shipped" alt="Typing SVG" />
 </p>
 
 I'm a student who builds mobile and web apps, and I learn mostly by shipping things.
