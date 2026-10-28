@@ -17,6 +17,20 @@ I'm a student who builds mobile and web apps, and I learn mostly by shipping thi
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,nextjs,ts,js,tailwind,supabase,git&perline=9" alt="Tech stack" />
 </p>
 
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tharuxpert&theme=dark&hide_border=true&timezone=Asia/Colombo" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tharuxpert&theme=default&hide_border=true&timezone=Asia/Colombo" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=tharuxpert&theme=default&hide_border=true&timezone=Asia/Colombo" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake.svg" />
+</picture>
+
 ### Find me
 
 <p>
@@ -27,9 +41,3 @@ I'm a student who builds mobile and web apps, and I learn mostly by shipping thi
 If something I made helped you out:
 
 <a href="https://www.buymeacoffee.com/tharuxpert"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" /></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake.svg" />
-</picture>
