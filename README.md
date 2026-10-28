@@ -27,3 +27,9 @@ I'm a student who builds mobile and web apps, and I learn mostly by shipping thi
 If something I made helped you out:
 
 <a href="https://www.buymeacoffee.com/tharuxpert"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tharuxpert/tharuxpert/output/github-snake.svg" />
+</picture>
